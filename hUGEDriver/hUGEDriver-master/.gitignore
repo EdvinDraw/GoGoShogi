@@ -1,0 +1,15 @@
+*.map
+*.gb
+*.gbs
+*.sym
+*.obj
+*.o
+*.lnk
+obj/
+*.htt
+*.exe
+rgbasm
+rgbfix
+rgblink
+
+!rgb2sdas.exe
